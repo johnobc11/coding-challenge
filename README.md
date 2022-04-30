@@ -6,9 +6,10 @@
 How to run:
 
 API
-# If running on a windows machine : 
+# If running on a windows machine, i have written this on a windows machine : 
 Replace, the build under scripts under package.json
 with "build": "del -rf build && tsc --outDir build",
+otherwise keep rm -rf build && tsc --outDir build
 
 1) npm install
 2) npm run serve
