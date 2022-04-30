@@ -1,3 +1,23 @@
+#Notes UI
+
+How to run:
+
+API
+# If running on a windows machine : 
+Replace, the build under scripts under package.json
+with "build": "del -rf build && tsc --outDir build",
+
+1) npm install
+2) npm run serve
+
+
+Client
+1) npm install
+2) npm start run
+
+Completed all tasks, but did not get to do to much front-end testing as i am a little inexperienced on this, and a little unsure how to Test Componenent Based UI as i am using Semantic UI, doing so would require me to study and research this a little more. I am determined to get better in Testing React using Jest and find the best way to do it. Overall I had a lot of fun doing the challenge
+
+
 # Frontend-focused Challenge
 
 ```
